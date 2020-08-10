@@ -42,7 +42,7 @@ I provide excellent electronics engineering and manufacturing services to indust
 
 ---
 
-<img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&hide_border=true" />
+<img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&count_private=true&hide_border=true" />
 
 [twitter]: https://twitter.com/gunceakkoyun
 [instagram]: https://instagram.com/akkoyun
