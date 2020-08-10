@@ -3,11 +3,11 @@
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
 
 ### I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on smart agriculture products.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to IoT projects
-- ⚡ Fun fact: I love to photograph, writing and design.
+- I’m currently working on smart agriculture products.
+- I’m currently learning everything 🤣
+- I’m looking to collaborate with other developers.
+- 2020 Goals: Contribute more to IoT projects
+- Fun fact: I love to photograph, writing and design.
 
 ### What i'm do ?
 - Project defination and management.
@@ -30,6 +30,13 @@ I provide excellent electronics engineering and manufacturing services to indust
 - Indurstial Automation
 - Security
 - GSM IoT
+
+### Latest Projects
+- Weather statation
+- Irrigation filter automation
+- Irrigation pressure sensor
+- Irrigation On/Off gateway
+- Polyphase energy measurement gateway
 
 ### Connect with me:
 
