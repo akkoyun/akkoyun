@@ -51,20 +51,16 @@ All iot system (generaly) use a enviroment sensor for sensing T/H/P etc. So i st
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="Akkoyun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Akkoyun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-
-<br />
-
----
-
 <img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&count_private=true&hide_border=true" />
 
 [twitter]: https://twitter.com/gunceakkoyun
 [instagram]: https://instagram.com/akkoyun
 [linkedin]: https://linkedin.com/in/akkoyun
 [spotify]: https://open.spotify.com/playlist/0nlMhpv08lO4W7YLePcZeu?si=rgkO4TOLRguVhIxgCy4T_w
+
+### Connect with me:
+
+[<img align="left" alt="Akkoyun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Akkoyun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
