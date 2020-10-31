@@ -40,13 +40,13 @@ I provide excellent electronics engineering and manufacturing services to indust
 
 ---
 
-### Telit GE910 GSM Module Library [![Build OK](https://travis-ci.org/akkoyun/GE910.svg?branch=master)](https://travis-ci.org/akkoyun/GE910)
+### Telit GE910 GSM Module Library [![Build Status](https://travis-ci.org/akkoyun/GE910.svg?branch=master)](https://travis-ci.org/akkoyun/GE910)
 I work on GSM based iot modules more than 8 years. So i started to work on a library for most stable GSM module GE910. [This library](https://github.com/akkoyun/GE910) is a open-source library for Telit GSM modules. This module tested on GE910. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
-### Silergy MAX78630 3 Phase Energy Module Library ![Build OK](https://travis-ci.org/akkoyun/EnergyBoard.svg?branch=master)
+### Silergy MAX78630 3 Phase Energy Module Library [![Build Status](https://travis-ci.org/akkoyun/EnergyBoard.svg?branch=master)](https://travis-ci.org/akkoyun/EnergyBoard)
 I also work on 3 phase energy measurement systems. I started to use Silergy MAX78630 (MAX78630 is started with Maxim Integrated). With these module u can measure all 3 phase energy parameters. [This library](https://github.com/akkoyun/EnergyBoard) is developed for this module. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
-### Enviromental Sensor Library ![Build OK](https://travis-ci.org/akkoyun/Environment.svg?branch=master)
+### Enviromental Sensor Library [![Build Status](https://travis-ci.org/akkoyun/Environment.svg?branch=master)](https://travis-ci.org/akkoyun/Environment)
 All iot system (generaly) use a enviroment sensor for sensing T/H/P etc. So i started to combine all my sensor libraries in a library. [This library](https://github.com/akkoyun/Environment) is developed for this sensors. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 ---
