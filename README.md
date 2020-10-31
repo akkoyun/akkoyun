@@ -40,7 +40,7 @@ I provide excellent electronics engineering and manufacturing services to indust
 
 ---
 
-### Telit GE910 GSM Module Library
+### Telit GE910 GSM Module Library [![Build OK](https://travis-ci.org/akkoyun/GE910.svg?branch=master)](https://travis-ci.org/akkoyun/GE910)
 I work on GSM based iot modules more than 8 years. So i started to work on a library for most stable GSM module GE910. [This library](https://github.com/akkoyun/GE910) is a open-source library for Telit GSM modules. This module tested on GE910. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 ### Silergy MAX78630 3 Phase Energy Module Library ![Build OK](https://travis-ci.org/akkoyun/EnergyBoard.svg?branch=master)
