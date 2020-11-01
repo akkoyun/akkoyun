@@ -45,7 +45,7 @@ I work on GSM based iot modules more than 8 years. So i started to work on a lib
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Telit%20GE910%20GSM%20Library.svg?)](https://www.ardu-badge.com/Telit%20GE910%20GSM%20Library)
 [![Build Status](https://travis-ci.org/akkoyun/GE910.svg?branch=master)](https://travis-ci.org/akkoyun/GE910)
-[![Build Status](https://coveralls.io/repos/github/akkoyun/GE910/badge.svg?branch=master)(https://github.com/akkoyun/GE910)]
+![Build Status](https://coveralls.io/repos/github/akkoyun/GE910/badge.svg?branch=master)
 
 ### Silergy MAX78630 3 Phase Energy Module Library 
 I also work on 3 phase energy measurement systems. I started to use Silergy MAX78630 (MAX78630 is started with Maxim Integrated). With these module u can measure all 3 phase energy parameters. [This library](https://github.com/akkoyun/EnergyBoard) is developed for this module. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
