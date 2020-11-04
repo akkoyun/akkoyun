@@ -61,6 +61,8 @@ All iot system (generaly) use a enviroment sensor for sensing T/H/P etc. So i st
 ### Linear Regression Calculator Library
 All machine learning systems use the basic method of AI, linear regression. This library is provide a calculation of refression and correlation for an array. [This library](https://github.com/akkoyun/LinearRegression) is usable in all arduino variants. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
+[![Build Status](https://travis-ci.org/akkoyun/LinearRegression.svg?branch=main)](https://travis-ci.org/akkoyun/LinearRegression)
+
 ---
 
 <img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&count_private=true&hide_border=true" />
