@@ -66,6 +66,19 @@ All machine learning systems use the basic method of AI, linear regression. This
 
 ---
 
+## Bug reports and technical discussions
+
+-  To report a *bug* in the library or to request *a simple enhancement* go to Github Issues.
+
+-  If you're interested in modifying or extending the library, we strongly
+suggest discussing your ideas on the
+[Developers mailing list](https://groups.google.com/g/ovooelectronics)
+ *before* starting to work on them.
+That way you can coordinate with the Developer Team and others,
+giving your work a higher chance of being integrated into the official release
+
+---
+
 <img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&count_private=true&hide_border=true" />
 
 [twitter]: https://twitter.com/gunceakkoyun
