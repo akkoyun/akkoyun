@@ -67,6 +67,9 @@ All machine learning systems use the basic method of AI, linear regression. This
 ### MAX17055 Battery Measurement Library
 Battery powered systems needs to measure instant parameters of battery. MAX17055 (Maxim) is a I2C based battery measurement IC. This library is provide to measure battery parameters. [This library](https://github.com/akkoyun/Battery) is usable in all arduino variants. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
+[![arduino-library-badge](https://www.ardu-badge.com/badge/Battery.svg?)](https://www.ardu-badge.com/Battery)
+[![Build Status](https://travis-ci.org/akkoyun/Battery.svg?branch=01.00.00)](https://travis-ci.org/akkoyun/Battery)
+
 ---
 
 ## Bug reports and technical discussions
