@@ -45,30 +45,35 @@ I work on GSM based iot modules more than 8 years. So i started to work on a lib
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Telit%20GE910%20GSM%20Library.svg?)](https://www.ardu-badge.com/Telit%20GE910%20GSM%20Library)
 [![Build Status](https://travis-ci.org/akkoyun/GE910.svg?branch=master)](https://travis-ci.org/akkoyun/GE910)
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/GE910)](http://www.github.com/akkoyun)
 
 ### Silergy MAX78630 3 Phase Energy Module Library 
 I also work on 3 phase energy measurement systems. I started to use Silergy MAX78630 (MAX78630 is started with Maxim Integrated). With these module u can measure all 3 phase energy parameters. [This library](https://github.com/akkoyun/EnergyBoard) is developed for this module. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/EnergyBoard.svg?)](https://www.ardu-badge.com/EnergyBoard)
 [![Build Status](https://travis-ci.org/akkoyun/EnergyBoard.svg?branch=master)](https://travis-ci.org/akkoyun/EnergyBoard)
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/EnergyBoard)](http://www.github.com/akkoyun)
 
 ### Enviromental Sensor Library 
 All iot system (generaly) use a enviroment sensor for sensing T/H/P etc. So i started to combine all my sensor libraries in a library. [This library](https://github.com/akkoyun/Environment) is developed for this sensors. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Environment.svg?)](https://www.ardu-badge.com/Environment)
 [![Build Status](https://travis-ci.org/akkoyun/Environment.svg?branch=master)](https://travis-ci.org/akkoyun/Environment)
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/Environment)](http://www.github.com/akkoyun)
 
 ### Linear Regression Calculator Library
 All machine learning systems use the basic method of AI, linear regression. This library is provide a calculation of refression and correlation for an array. [This library](https://github.com/akkoyun/LinearRegression) is usable in all arduino variants. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/LinearRegression.svg?)](https://www.ardu-badge.com/LinearRegression)
 [![Build Status](https://travis-ci.org/akkoyun/LinearRegression.svg?branch=main)](https://travis-ci.org/akkoyun/LinearRegression)
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/LinearRegression)](http://www.github.com/akkoyun)
 
 ### MAX17055 Battery Measurement Library
 Battery powered systems needs to measure instant parameters of battery. MAX17055 (Maxim) is a I2C based battery measurement IC. This library is provide to measure battery parameters. [This library](https://github.com/akkoyun/Battery) is usable in all arduino variants. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Battery.svg?)](https://www.ardu-badge.com/Battery)
 [![Build Status](https://travis-ci.org/akkoyun/Battery.svg?branch=01.00.00)](https://travis-ci.org/akkoyun/Battery)
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/Battery)](http://www.github.com/akkoyun)
 
 ---
 
@@ -99,3 +104,4 @@ giving your work a higher chance of being integrated into the official release
 [<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Akkoyun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
+[![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun)
