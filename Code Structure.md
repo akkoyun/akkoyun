@@ -4,22 +4,7 @@ Geliştirilmekte olan tüm projelerde kullanılan (müşteri bağımsız) tüm m
 
 Kodlama yapısı aşağıdaki formatta kullanılmaktadır.
 
-</br>
-<center><H3>ABbbCD-Eeeeee-(Fff)</H3></center>
-</br>
----
-
-<center>
-| Kod     | Açıklama                  | Detay |
-|:-------:|---------------------------|-------|
-| A       | Segment Kodu              | [Açıklama](#) |
-| B       | Grup Kodu                 | [Açıklama](#) |
-| bb      | Sıra Kodu                 | [Açıklama](#) |
-| CD      | Versiyon Kodu             | [Açıklama](#) |
-| Eeeeee  | Üretim Parti ve Sıra Kodu | [Açıklama](#) |
-| Fff     | Parça Kodu                | [Açıklama](#) |
-</center>
----
+<H1>ABbbCD-Eeeeee-(Fff)</H1>
 
 ### [A] : Segment kodu
 
