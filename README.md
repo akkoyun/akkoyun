@@ -115,8 +115,6 @@ giving your work a higher chance of being integrated into the official release
 
 ---
 
-<img align="left" alt="Akkoyun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akkoyun&show_icons=true&count_private=true&hide_border=true" />
-
 [twitter]: https://twitter.com/gunceakkoyun
 [instagram]: https://instagram.com/akkoyun
 [linkedin]: https://linkedin.com/in/akkoyun
