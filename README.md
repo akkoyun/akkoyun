@@ -98,7 +98,16 @@ Battery powered systems needs to measure instant parameters of battery. MAX17055
 [![Build Status](https://travis-ci.com/akkoyun/Battery.svg?branch=01.00.00)](https://travis-ci.org/akkoyun/Battery)
 ![Visits Badge](https://badges.pufler.dev/visits/akkoyun/Battery)
 ![Updated Badge](https://badges.pufler.dev/updated/akkoyun/Battery)
-![GitHub](https://img.shields.io/github/license/akkoyun/LinearRegression)
+![GitHub](https://img.shields.io/github/license/akkoyun/Battery)
+
+### Statistical Calculation Library
+Some sensor measuremenst are needed to measure multiple times and want to calculate average (and other statistical parameters). This library makes calculations on stream and array based data. [This library](https://github.com/akkoyun/Statistical) is usable in all arduino variants. And also placed on **Arduino Library Manager** (you can use this library with all Ardunio modules).
+
+![arduino-library-badge](https://www.ardu-badge.com/badge/Statistical.svg?)
+[![Build Status](https://travis-ci.com/akkoyun/Statistical.svg?branch=01.00.00)](https://travis-ci.org/akkoyun/Statistical)
+![Visits Badge](https://badges.pufler.dev/visits/akkoyun/Statistical)
+![Updated Badge](https://badges.pufler.dev/updated/akkoyun/Statistical)
+![GitHub](https://img.shields.io/github/license/akkoyun/Statistical)
 
 ---
 
