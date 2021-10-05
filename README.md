@@ -9,7 +9,7 @@ I provide excellent electronics engineering and manufacturing services to indust
 - I’m currently working on smart agriculture products.
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other developers.
-- 2021 Goals: Contribute more to IoT projects
+- 2022 Goals: Contribute more to IoT projects
 - Fun fact: I love to photograph, writing and design.
 
 ### What i'm do ?
@@ -40,6 +40,7 @@ I provide excellent electronics engineering and manufacturing services to indust
 - Irrigation pressure sensor
 - Irrigation On/Off gateway
 - Polyphase energy measurement gateway
+- PCIe based IoT modules
 
 ---
 
