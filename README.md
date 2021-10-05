@@ -1,9 +1,11 @@
 ## Hi there, I'm Günce Akkoyun 👋 I'm a full-stack hardware developer.
 
-[![Repos Badge](https://badges.pufler.dev/repos/akkoyun)](https://www.github.com/akkoyun)  [![Gists Badge](https://badges.pufler.dev/gists/akkoyun)](https://www.github.com/akkoyun)  [![Analytics](https://ga-beacon.appspot.com/G-2CVWW93GSB/welcome-page)](https://github.com/akkoyun/akkoyun) ![Discord](https://img.shields.io/discord/798913306848657419?style=plastic)
+[![Repos Badge](https://badges.pufler.dev/repos/akkoyun)](https://www.github.com/akkoyun)  [![Gists Badge](https://badges.pufler.dev/gists/akkoyun)](https://www.github.com/akkoyun)
 
 
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
+
+You can reach my CV [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.md).
 
 ### I'm a Husband, Father, Developer, and Teacher!
 - I’m currently working on smart agriculture products.
