@@ -90,6 +90,12 @@ Akıllı tarım uygulamaları kapsamında etohum startup yarışmasında ödül 
 
 ---
 
+### STF Tarım A.Ş. <sup>Proje Yönetmeni</sup></br>
+01.11.2019 – Halen</br>
+Akıllı tarım uygulamaları kapsamında firmaya ait projelerin (akıllı filtre sistemleri, tarımsal enerji analizörü, uzaktan arıza tesbit sistemleri, akıllı gübre otomasyon sistemleri ve meteoroloji istasyonu vb) her türlü IoT tabanlı elektronik sistemlerin geliştirilmesi, makina öğrenme ve yapay zeka sistemleri ile tarımsal yönlendirmeler yapılması, Tübitak ve diğer devlet destekli projelere liderlik edilmesi gibi görevlerede tasarım, planlama, yönetim ve saha uygulamalarında bulunmak. Proje bünyesinde Çin merkezli elektronik üretim işlerinin tamamı tarafımdan koordine edilmiştir.
+
+---
+
 ### Genesis Elektronik San. ve Tic. Ltd. Şti. <sup>Proje Yönetmeni</sup></br>
 30.12.2019 – Halen</br>
 Firmanın faaliyet alanı dahilinde kablo projelendirme, elektronik tasarım, robotik tasarım vb konularda projelendirme ve imalat. Müşterilerin istemleri doğrultusunda elektronik otomasyon projeleri ile IoT tabanlı sistemlerin tasarımı, üretilmesi, kodlanması ve devreye alınması. Proje bünyesinde Çin merkezli elektronik üretim işlerinin tamamı tarafımdan koordine edilmiştir.
@@ -98,14 +104,15 @@ Firmanın faaliyet alanı dahilinde kablo projelendirme, elektronik tasarım, ro
 
 ## Eğitim Bilgileri
 
-|                    | Okul Adı                     | Bölüm                | Başlangıç | Bitiş | Mezuniyet Notu   |
-|--------------------|------------------------------|----------------------|-----------|-------|------------------|
-| İlkokul            | İnkılap İlkokulu (Konya)     |                      | 1986      | 1991  | 5 / 5            |
-| Ortaokul           | Özel Diltaş Lisesi (Konya)   |                      | 1991      | 1994  | 70 / 100         |
-| Lise               | Özel Diltaş Lisesi (Konya)   |                      | 1994      | 1996  | 4.20 / 5 (B+)    |
-| Lise               | Meram Teknik Lisesi (Konya)  |                      | 1996      | 1997  | 4.20 / 5 (B+)    |
-| Lisans             | Ankara Üniversitesi (Ankara) | Jeoloji Mühendisliği | 1998      | 2004  | 71,81 / 100 (C+) |
-| Profesyonel Eğitim | Stanford University          | Internet of Things   | 2018      | 2019  | S (A+)           |
+|                    | Okul Adı                          | Bölüm                 | Başlangıç | Bitiş | Mezuniyet Notu   |
+|--------------------|-----------------------------------|-----------------------|-----------|-------|------------------|
+| İlkokul            | İnkılap İlkokulu (Konya)          |                       | 1986      | 1991  | 5 / 5            |
+| Ortaokul           | Özel Diltaş Lisesi (Konya)        |                       | 1991      | 1994  | 70 / 100         |
+| Lise               | Özel Diltaş Lisesi (Konya)        |                       | 1994      | 1996  | 4.20 / 5 (B+)    |
+| Lise               | Meram Teknik Lisesi (Konya)       | Elektronik            | 1996      | 1997  | 3.80 / 5 (B+)    |
+| Lisans             | Ankara Üniversitesi (Ankara)      | Jeoloji Mühendisliği  | 1998      | 2004  | 71,81 / 100 (C+) |
+| Profesyonel Eğitim | Stanford University               | Internet of Things    | 2018      | 2019  | S (A+)           |
+| Lisans Üstü        | Konya Teknik Üniversitesi (Konya) | Endüstri Mühendisliği | 2021      |       |                  |
 
 ---
 
@@ -285,7 +292,6 @@ Firmanın faaliyet alanı dahilinde kablo projelendirme, elektronik tasarım, ro
 
 ## Üye Olunan Dernekler
 
-* Atatürkçü Düşünce Derneği
 * Microsoft Yazılım Geliştiricileri Derneği
 * Microsoft Beta Test Grubu
 * Ankara Ünv. Jeoloji Müh. Uzaktan Algılama Grubu
