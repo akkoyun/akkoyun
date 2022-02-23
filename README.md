@@ -5,7 +5,8 @@
 
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
 
-You can reach my CV [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.md).
+You can reach my CV (Turkish) [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.md).
+You can reach my CV (English) [here](https://github.com/akkoyun/akkoyun/blob/master/CV_EN.md).
 
 ### I'm a Husband, Father, Developer, and Teacher!
 - I’m currently working on smart agriculture products.
@@ -45,14 +46,6 @@ You can reach my CV [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.
 - PCIe based IoT modules
 
 ---
-
-## My Open Source Hardware
-
-### B100
-
-B100 module is an open source industrial GSM IoT module.  Module have Atmel based AtMega2560 main microcontroller and AtMega 328P FOTA (remote firmware update - Firmware Over The Air) microcontroller. B100 also have a lot of features on it in a 86x46 (mm) size.
-
-[B100AA Repo](https://github.com/akkoyun/B100)
 
 ## My Open Source Libraries
 
