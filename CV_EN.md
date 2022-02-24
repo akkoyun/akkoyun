@@ -280,7 +280,7 @@ Within the scope of the project, all electronic production works based in China 
 * Article
   * 2 years on ASP, XML and WML in PcWorld and PcNet Magazines
 * Exhibition
-  * Prophet Mevlana (in 47 halls / including Berlin, Paris, Rome, Florence, Milan and Vatican)
+  * Hz. Mevlana (in 47 halls / including Berlin, Paris, Rome, Florence, Milan and Vatican)
   * Rome (8 halls / Turkish cities)
 * Research
   * Use of Radiogenic Isotopes in Geochronology
