@@ -1,6 +1,7 @@
 ## Hi there, I'm Günce Akkoyun 👋 I'm a full-stack hardware developer.
 
-[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) [![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social)](https://twitter.com/gunceakkoyun) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social)](https://www.youtube.com/channel/UCIguQGdaBT1GnnVMz5qAZ2Q) ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun)
+[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) [![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social)](https://twitter.com/gunceakkoyun) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social)](https://www.youtube.com/channel/UCIguQGdaBT1GnnVMz5qAZ2Q) ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun) [![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
+
 
 ---
 
@@ -8,7 +9,7 @@
 
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
 
-[![Resume](/assets/img/Resume.png)](/resume.md) [![Özgeçmiş](/assets/img/Ozgecmis.png)](/ozgecmis.md)
+[![Resume](/assets/img/Resume.png)](./resume.md) [![Özgeçmiş](/assets/img/Ozgecmis.png)](./ozgecmis.md)
 
 
 ### I'm a Husband, Father, Developer, and Teacher!
@@ -70,6 +71,10 @@ I also write open source libraries for AVR based microcontrollers. Please feel f
 * RV3028 - RTC Library.
 * Environment - Environment Sensor Library.
 * Console - VT100 Based Terminal Library.
+
+---
+
+[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) ![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social) ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) ![GitHub](https://img.shields.io/github/license/akkoyun/Statistical) 
 
 ---
 

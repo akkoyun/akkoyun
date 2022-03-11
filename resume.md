@@ -385,6 +385,4 @@ Projecting and manufacturing in the fields of cable project, electronic design, 
 * İbrahim Koyuncu (Koyuncu Corp.)
 * Salim Tokmak (STF Filter Agricultural Irrigation Systems Machine Ind. Trade Co. Ltd.)
 
-_yay_
-
 [back](./)
