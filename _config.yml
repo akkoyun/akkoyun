@@ -1,6 +1,6 @@
 title: Günce Akkoyun
 logo: /assets/img/Gunce_Akkoyun.jpg
 description: Gunce Akkoyun Personal Web Site
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

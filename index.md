@@ -9,9 +9,9 @@
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
 
 
-You can reach my CV (Turkish) [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.md).</br>
+You can reach my CV (Turkish) [here](https://github.com/akkoyun/akkoyun/blob/master/CV_TR.md).
 
-You can reach my CV (English) [here](https://github.com/akkoyun/akkoyun/blob/master/CV_EN.md).</br>
+You can reach my CV (English) [here](/resume.md).
 
 ### I'm a Husband, Father, Developer, and Teacher!
 
@@ -127,6 +127,7 @@ This is a helper library to abstract away I2C transactions and registers. https:
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/akkoyun/I2C_Functions) ![arduino-library-badge](https://www.ardu-badge.com/badge/I2C_Functions.svg?) ![Visits Badge](https://badges.pufler.dev/visits/akkoyun/I2C_Functions) ![GitHub stars](https://img.shields.io/github/stars/akkoyun/I2C_Functions?style=flat&logo=github) ![Updated Badge](https://badges.pufler.dev/updated/akkoyun/I2C_Functions) ![PlatformIO Registry](https://badges.registry.platformio.org/packages/akkoyun/library/I2C_Functions.svg)
 
 </details>
+
 
 ---
 
