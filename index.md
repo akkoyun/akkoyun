@@ -1,6 +1,6 @@
 ## Hi there, I'm Günce Akkoyun 👋 I'm a full-stack hardware developer.
 
-[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) [![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social)](https://twitter.com/gunceakkoyun) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social)](https://www.youtube.com/channel/UCIguQGdaBT1GnnVMz5qAZ2Q) ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun) [![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
+![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun) [![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
 
 
 ---
@@ -12,7 +12,7 @@ I provide excellent electronics engineering and manufacturing services to indust
 [![Resume](/assets/img/Resume.png)](./resume.md) [![Özgeçmiş](/assets/img/Ozgecmis.png)](./ozgecmis.md)
 
 
-### I'm a Husband, Father, Developer, and Teacher!
+**I'm a Husband, Father, Developer, and Teacher!**
 
   - I’m currently working on smart agriculture products.
   - I’m currently learning everything 🤣
@@ -20,7 +20,7 @@ I provide excellent electronics engineering and manufacturing services to indust
   - 2022 Goals: Contribute more to IoT projects
   - Fun fact: I love to photograph, writing and design.
 
-### What i'm do ?
+**What i'm do ?**
 
   - Project defination and management.
   - Make research and development.
@@ -35,7 +35,7 @@ I provide excellent electronics engineering and manufacturing services to indust
   - Make prototype & assembly.
   - Make prototype testings.
 
-### I provided electronics engineering and production services to the following industries.
+**I provided electronics engineering and production services to the following industries.**
 
   - Meteorology
   - Agriculture
@@ -44,7 +44,7 @@ I provide excellent electronics engineering and manufacturing services to indust
   - Security
   - GSM IoT
 
-### Latest Projects
+**Latest Projects**
 
   - Weather statation
   - Irrigation filter automation
@@ -54,9 +54,7 @@ I provide excellent electronics engineering and manufacturing services to indust
   - PCIe based IoT modules
   - Atmel based AI projects
 
----
-
-## My Open Source Libraries
+**My Open Source Libraries**
 
 I also write open source libraries for AVR based microcontrollers. Please feel free to use them.
 
@@ -74,12 +72,4 @@ I also write open source libraries for AVR based microcontrollers. Please feel f
 
 ---
 
-[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) ![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social) ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) ![GitHub](https://img.shields.io/github/license/akkoyun/Statistical) 
-
----
-
-## Bug reports and technical discussions
-
--  To report a *bug* in the library or to request *a simple enhancement* go to Github Issues.
-
--  If you're interested in modifying or extending the library, we strongly suggest discussing your ideas. That way you can coordinate with the Developer Team and others, giving your work a higher chance of being integrated into the official release
+[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) ![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com)
