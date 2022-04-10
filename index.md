@@ -13,9 +13,6 @@ layout: default
 
 I provide excellent electronics engineering and manufacturing services to industrial clients. I enjoy what I do, take pride in my work, and treat others the way that I want to be treated. I utilize the latest and best technology for both my customers and my own internal processes. These principles have resulted in long-term business relationships and referrals to new clients and colleagues.
 
-[![Resume](/assets/img/Resume.png)](./resume.md) [![Özgeçmiş](/assets/img/Ozgecmis.png)](./ozgecmis.md)
-
-
 **I'm a Husband, Father, Developer, and Teacher!**
 
   - I’m currently working on smart agriculture products.
