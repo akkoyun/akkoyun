@@ -52,6 +52,11 @@ I provide excellent electronics engineering and manufacturing services to indust
   - Irrigation pressure sensor
   - Irrigation On/Off gateway
   - Polyphase energy measurement gateway
+  - Irrigation power monitoring
+  - Irrigation AI IoT engine
+  - Soil spectrometer
+  - Nano power modules
+  - GSM based IoT backend system
   - PCIe based IoT modules
   - Atmel based AI projects
 
@@ -61,7 +66,7 @@ I also write open source libraries for AVR based microcontrollers. Please feel f
 
 * [MAX78630](https://max78630.akkoyun.net) - Polly Phase Energy Measurement Library.
 * Telit xE910 - Telit GSM Library.
-* [Statistical](http://statistical.akkoyun.net) - Descriptive Statistics for Array or Stream Data and Linear Regression Library.
+* [Statistical](http://statistical.akkoyun.net) - Descriptive Statistics for Array or Stream Data and Regression Library.
 * [MAX17055](http://max17055.akkoyun.net) - Battery Gauge Sensor Library.
 * BQ24298 - Battery Charge Controller Library.
 * [I2C Functions](http://i2c_functions.akkoyun.net) - Helper Library to Abstract Away I2C Transactions and Registers.
