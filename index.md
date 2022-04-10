@@ -59,16 +59,16 @@ I provide excellent electronics engineering and manufacturing services to indust
 
 I also write open source libraries for AVR based microcontrollers. Please feel free to use them.
 
-* MAX78630 - Polly Phase Energy Measurement Library.
+* [MAX78630](https://max78630.akkoyun.net) - Polly Phase Energy Measurement Library.
 * Telit xE910 - Telit GSM Library.
-* Statistical - Descriptive Statistics for Array or Stream Data and Linear Regression Library.
-* MAX17055 - Battery Gauge Sensor Library.
+* [Statistical](http://statistical.akkoyun.net) - Descriptive Statistics for Array or Stream Data and Linear Regression Library.
+* [MAX17055](http://max17055.akkoyun.net) - Battery Gauge Sensor Library.
 * BQ24298 - Battery Charge Controller Library.
-* I2C Functions - Helper Library to Abstract Away I2C Transactions and Registers.
-* I2C Scanner - Extended Console Based I2C Scanner.
+* [I2C Functions](http://i2c_functions.akkoyun.net) - Helper Library to Abstract Away I2C Transactions and Registers.
+* [I2C Scanner](http://i2c_scanner.akkoyun.net) - Extended Console Based I2C Scanner.
 * dWin HMI LCD - dWin LCD HMI Library.
-* RV3028 - RTC Library.
-* Environment - Environment Sensor Library.
+* [RV3028](http://rv3028.akkoyun.net) - RTC Library.
+* [Environment](http://environment.akkoyun.net) - Environment Sensor Library.
 * Console - VT100 Based Terminal Library.
 
 ---
