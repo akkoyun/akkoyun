@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hi there, I'm Günce Akkoyun 👋 I'm a full-stack hardware developer.
 
 ![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun) [![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
@@ -58,14 +62,14 @@ I provide excellent electronics engineering and manufacturing services to indust
 
 I also write open source libraries for AVR based microcontrollers. Please feel free to use them.
 
-* MAX78630 - Polly Phase Energy Measurement Library
-* Telit xE910 - Telit GSM Library
-* Statistical - 
-* MAX17055 -
-* BQ24298 -
-* I2C Functions -
-* I2C Scanner - 
-* dWin HMI LCD - 
+* MAX78630 - Polly Phase Energy Measurement Library.
+* Telit xE910 - Telit GSM Library.
+* Statistical - Descriptive Statistics for Array or Stream Data and Linear Regression Library.
+* MAX17055 - Battery Gauge Sensor Library.
+* BQ24298 - Battery Charge Controller Library.
+* I2C Functions - Helper Library to Abstract Away I2C Transactions and Registers.
+* I2C Scanner - Extended Console Based I2C Scanner.
+* dWin HMI LCD - dWin LCD HMI Library.
 * RV3028 - RTC Library.
 * Environment - Environment Sensor Library.
 * Console - VT100 Based Terminal Library.
