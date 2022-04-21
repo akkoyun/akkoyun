@@ -25,10 +25,10 @@ Aşağıda aynı Teknik Özellikler sahip iki ekran arasında fiyat karşılaşt
 
 #### 2022 Fiyat Listeleri
 
-[Endüstriyel Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20industrial%20grade%20end%20applications.pdf)
-[Medikal Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20medical%20grade%20end%20applications.pdf)
-[Ticari Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20commercial%20grade%20end%20applications.pdf)
-[COF Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20COF%20grade%20end%20applications.pdf)
+* [Endüstriyel Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20industrial%20grade%20end%20applications.pdf)
+* [Medikal Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20medical%20grade%20end%20applications.pdf)
+* [Ticari Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20commercial%20grade%20end%20applications.pdf)
+* [COF Sınıf LCD Fiyat Listesi](/dWin/DWIN%20HMI%20LCD%20Display%20for%20COF%20grade%20end%20applications.pdf)
 
 Yukarda gördüğünüz gibi fiyat konusunda müthiş fark söz konusu, Peki ya performans ve kalite konusunda nasıl bir fark var? Aşağıdaki tabloya bakarsanız aslında daha az parayla çok daha iyi ekran alabileceğinizi anlarsınız.
 
@@ -49,18 +49,23 @@ Yukarda gördüğünüz gibi fiyat konusunda müthiş fark söz konusu, Peki ya 
 #### Sıkça Sorulan Sorular
 
 **Bu ekrana güvenerek endüstriyel projeler yapabilir miyim ?**
+
 Tabi ki, bende ilk aldığımda tereddüt ettim, ama şimdi arazide çalışan 1000'dan fazla cihazımız var.
 
 **Peki neden bu ekran ucuz ?**
+
 DWIN firması Çin pazarının %80 hakim ve Pandemi'den sonra yurtdışına açılmaya başladı.
 
 **Ücretsiz numune alabilirmiyim ?**
+
 Denemek isteyen kişilere Ücretsiz Numune ekran gönderilebilmektedir. Eğer sizde bir şirket sahibi veya Ar-Ge mühendisi olarak bir firmada çalışıyorsanız örnek isteme formunu doldurarak ücretsiz numune alabilirsiniz. (Örnek isteme limiti 60$ dır.)
 
 **Nextion LCD yerine DWIN LCD'yi cihazlarıma bağlayabilir miyim ?**
+
 Tabi ki, yapmanız gereken tek şey +5V, GND, Tx ve Rx kablolarının lehimlerini söküp DWIN ekranına bağlamak. işte bu kadar basit !
 
 **Peki ya Haberleşme Kısımı nasıl olacak ?**
+
 Haberleşme kısmı, ekrandan data almak için 9 Byte'lık bir veriyi yakaladıktan sonra Adres ve veri kısmını compare ederek işlem yapmak kafi olacaktır, keza 9 Byte'lık veriyi Printf komutu ile gönderebilirsiniz. Bu konuda teknik destek almak için bana ulaşabilirsiniz.
 
 ---
