@@ -9,7 +9,7 @@ layout: default
 
 **Address** : Necip Fazil mah. Ortaırmak Sok. Birgul Apt. no:19/6 42090 Meram Konya Turkey
 **eMail** : akkoyun@me.com
-**GSM** : +90 506 7 444 300
+**GSM** : +90 506 7 444300
 
 ---
 
