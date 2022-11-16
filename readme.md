@@ -1,6 +1,6 @@
 ## Hi there, I'm Günce Akkoyun 👋 I'm a full-stack hardware developer.
 
-![Repos Badge](https://badges.pufler.dev/repos/akkoyun) [![Visits Badge](https://badges.pufler.dev/visits/akkoyun/akkoyun)](http://www.github.com/akkoyun) [![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
+[![Want to buu](https://img.shields.io/badge/Web_Store-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
 
 
 ---
