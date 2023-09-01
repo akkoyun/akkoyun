@@ -26,29 +26,29 @@ Leveraging cutting-edge technologies, I continuously strive to streamline both c
 
 ### What i'm do ?
 
-* Project Definition and Management: Spearhead initiatives from concept to completion, ensuring timely delivery and quality benchmarks.
+* **Project Definition and Management:** Spearhead initiatives from concept to completion, ensuring timely delivery and quality benchmarks.
 
-* Research and Development: Conduct in-depth studies and apply findings to innovate and enhance products and services.
+* **Research and Development:** Conduct in-depth studies and apply findings to innovate and enhance products and services.
 
-* Standardization and Specifications: Establish rigorous standards and specifications to guarantee product integrity and performance.
+* **Standardization and Specifications:** Establish rigorous standards and specifications to guarantee product integrity and performance.
 
-* Schematic Design: Create intricate and optimized electronic schematics tailored for each project's unique requirements.
+* **Schematic Design:** Create intricate and optimized electronic schematics tailored for each project's unique requirements.
 
-* Firmware & Software Algorithm Planning: Devise robust algorithms for seamless hardware-software integration.
+* **Firmware & Software Algorithm Planning:** Devise robust algorithms for seamless hardware-software integration.
 
-* Digital Logic Design: Develop sophisticated digital circuits to meet the highest standards of performance and reliability.
+* **Digital Logic Design:** Develop sophisticated digital circuits to meet the highest standards of performance and reliability.
 
-* PCB Layout Design: Craft high-quality, efficient Printed Circuit Boards (PCB) to optimize functionality.
+* **PCB Layout Design**: Craft high-quality, efficient Printed Circuit Boards (PCB) to optimize functionality.
 
-* Mechanical Part Design: Engineer mechanical components that complement and enhance electronic functionalities.
+* **Mechanical Part Design:** Engineer mechanical components that complement and enhance electronic functionalities.
 
-* Design Reviews: Conduct comprehensive reviews to ensure all elements meet established criteria and work in harmony.
+* **Design Reviews:** Conduct comprehensive reviews to ensure all elements meet established criteria and work in harmony.
 
-* Parts Purchasing: Source the highest quality components to guarantee durability and efficiency.
+* **Parts Purchasing:** Source the highest quality components to guarantee durability and efficiency.
 
-* Prototype & Assembly: Build and assemble prototypes to test hypotheses and validate product features.
+* **Prototype & Assembly:** Build and assemble prototypes to test hypotheses and validate product features.
 
-* Prototype Testing: Perform rigorous tests to ensure prototypes meet all specifications and safety standards.
+* **Prototype Testing:** Perform rigorous tests to ensure prototypes meet all specifications and safety standards.
 
 ---
 
